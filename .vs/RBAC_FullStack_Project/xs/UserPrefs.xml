@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FF74394A-A168-4F48-A8E0-E2FDE550BF02}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Backend/Program.cs">
+    <Files>
+      <File FileName="Backend/Controllers/ContentController.cs" />
+      <File FileName="Backend/Models/Roles.cs" Line="1" Column="1" />
+      <File FileName="Backend/Models/User.cs" />
+      <File FileName="Backend/Services/AuthService.cs" Line="26" Column="1" />
+      <File FileName="Backend/Services/JwtService.cs" Line="1" Column="1" />
+      <File FileName="Backend/Program.cs" Line="49" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RBAC_FullStack_Project" expanded="True">
+            <Node name="Backend" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

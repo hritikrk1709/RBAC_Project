@@ -1,0 +1,100 @@
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/appsettings.json
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Backend
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Backend.deps.json
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Backend.runtimeconfig.json
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Backend.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Backend.pdb
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.Bcl.TimeProvider.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/System.Diagnostics.DiagnosticSource.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.csproj.AssemblyReference.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.AssemblyInfoInputs.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.AssemblyInfo.cs
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/staticwebassets/msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.Backend.props
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Backend.props
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Backend.props
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/scopedcss/bundle/Backend.styles.css
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.csproj.CopyComplete
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/refint/Backend.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.pdb
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/Backend.genruntimeconfig.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project/Backend/obj/Debug/net7.0/ref/Backend.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/appsettings.Development.json
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/appsettings.json
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Backend
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Backend.deps.json
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Backend.runtimeconfig.json
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Backend.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Backend.pdb
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.Bcl.TimeProvider.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/System.Diagnostics.DiagnosticSource.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.csproj.AssemblyReference.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.AssemblyInfoInputs.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.AssemblyInfo.cs
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/staticwebassets/msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.Backend.props
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Backend.props
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Backend.props
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/scopedcss/bundle/Backend.styles.css
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.csproj.CopyComplete
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/refint/Backend.dll
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.pdb
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/Backend.genruntimeconfig.cache
+/Users/hritik/Downloads/RBAC_FullStack_Project 2/Backend/obj/Debug/net7.0/ref/Backend.dll
